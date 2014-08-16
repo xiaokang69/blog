@@ -1,2 +1,7 @@
-blog
-====
+<?php
+	phpinfo();
+?>
+
+<html>
+	
+</html>
